@@ -1,3 +1,5 @@
+!!!I am not responsible or use legal proceedings for illegal actions at your own risk it is a test for your Internet connection and router Or your own Website.!!!
+
 # Hibernet
 A powerful HTTP flooding tool.
 You can choose if use proxy/socks to anonymize attack.
