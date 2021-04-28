@@ -41,8 +41,3 @@ You can found it here: https://github.com/All3xJ/HiberProxy and here: https://gi
 
 
 Attack from just 1 lousy vps can be dangerous for a target, so don't aim targets that are not your property.
-
-
-
-<h2>Demonstration video:</h2>
-https://www.youtube.com/watch?v=G84R0qKMpO8
